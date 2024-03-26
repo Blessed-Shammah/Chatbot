@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/dbconfig
+/config
+
+# local env files
+.env
