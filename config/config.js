@@ -1,7 +1,7 @@
 // From GCP service account key file
-module.exports = {"project_id": "student-assistant-sxva",
-  "private_key_id": "c240cb7dd533b9b7fcf62c83d0b4bb0b176a6062",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDesSkRnUnHv7nJ\nSNOxywrpM6Q9smZsZh2uDRcuLP71KrFN1ArDu6j5EaFU5ClcP21NGYbweUD11tcW\nGqblf3vZifHDCOOX98Dn6Tz04AoPYO9WGpWKpPKAYY0T9AgALjISpB79VIiJrmaN\nPzCmMhisXF53OnGI5fg60wyND8/hnwWPTAxqiFcCZMu0kKOjflt/3FXa6debAPD4\nUD7A/8Y4gFdTmmArQswQd89LGl+ZhJZAnESGkJZii5pnaGFcqiJcX8xdaEqolAjc\nCoF5q9rZBU7mIaCxVvJbqKPfAIbB9vYeEKowfM5w2cVeDZth+PRMijPo5wc6EDqX\ncjyYEYF1AgMBAAECggEAG/JOrZu4FR298oE1s+O/wElPTMDVMrhT9DJHXO+fpWPQ\nsWwxV6P2zh8EyJMDj8ST8m+ILCiDWva1slvw4u8vOzshAHFeooUgi9oM4Mw25vwq\nvPsEFkyh9DOJ0V24HVGuzgETtIYFxoWA8Cvkbo7t4r+KyVqnwd7eWn9+3TsFQxKG\nTKc49yarBhuUmXYGzbqqRsQKE3e4U9l9jQiZgoz0N3BXP9cl6kGv/OlIub6hzhNm\nkznYNskQkoOPFwLoxzzGJ6Q++tKIMVZIyoiyCd9FTxGLlONuw/O9IcO/nVSI4tMR\nWw2hDZerZRWof3xKT6Sh8vTDYxqpczso974t5nIaIQKBgQD7rsv65BxdkCjpGaE2\nn1ZuTxmJEcq5VJpkd5l1TdfHKLd/dlvIUGILJyRNjzWoitj7ZJlM7DGM9SbXj5ip\nQN4QJh4+KQ5Rx24nilqEuUKatDthgjmj71SvOdFVCNgJF5CnaS3ZO8dgKDYic9mS\nvimE7pbh1OzzdTrFIUTMDGKCpQKBgQDigw7Lnm6FddNnEBNyULpoYDQW/bNZXdQ1\n7HQoxSUD86zutJiyTMg/159PpoeNR3BN4S5cA1ovfhq9MP0npVf1AJjYlER2moHO\n7dGGHF1ivu6LAFz4twlfPURo/vXbXF3txl0v0pZN/2WZQtuv/l/n5tKcjWZdWvQc\nvRBFBuHakQKBgQCb7ajMsOTuBrGB8XIS4FbxEqqUZGR/u+3Hjt2Rcn/cENrW6mJk\n0YBcvoxcTPyGhjd2UNY1dSQh24SMCpgfTGQIB0W3Z0JK4k7ZynrYPdsI897SQ5co\nfM+vnBeYIlmOEH57acuRCds1NNSNNc83ff9FL3hlQ8Dl+NxHY5w2+vlRTQKBgCnN\npCpiB+WrlCNeLSiYy3492v8vPS1OCr8U728iyy0KiKzZOaEWWJKnuagahMPHHmvR\nFhw3JirDrC2kX+Q0OKJnxM2bt3LoGvLUoymMDJQPxrhyjbX9Gcaw6PIzs64TQuaC\nCGquA71LWDXLx/2YBZ0n1VC9K9oo0gqHvfvvRDlxAoGBAI23bBhOiRplp336zcAZ\nZyJvNUngKuR2zalzErJDyBsHWcXSoQ1os78Dq/k9Y+gpYJiz8NN/j5EfVWeCh0av\nRlIviGIXIunK2CvNfEi0xO5k/Pg2uO07V2JB6fmm/5X4ADPBAZXh7IkcyGuwShdb\nYepV0UUTq+lajkohivqGE/fA\n-----END PRIVATE KEY-----\n",
-  "client_email": "student-assistant@student-assistant-sxva.iam.gserviceaccount.com",
-  "client_id": "109025274333530518097"
+module.exports = {"project_id": "PROJECT_ID",
+  "private_key_id": "PRIVATE_KEY_ID",
+  "private_key": "PRIVETE_KEY_HERE",
+  "client_email": "CLIENT_EMAIL HERE",
+  "client_id": "CLIENT_ID HERE"
 }
